@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahtirth07
-- 👀 I’m interested in all sornts of new technology
+- 👀 I’m interested in all sorts of new technology
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Computer Vision projects 
 - 📫 How to reach insta _shahtirth07_
