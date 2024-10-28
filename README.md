@@ -2,6 +2,17 @@
 
                                                             Hey, I'm Tirth 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+<a href="https://github.com/shahtirth07">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymalave&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Jay's Top Languages" />
+
+<a href="https://github.com/shahtirth07">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=jaymalave&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Jay's Stats" />
+</a>
+
+<a href="https://github.com/shahtirth07">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's streak" src="http://github-readme-streak-stats.herokuapp.com?user=jaymalave&theme=tokyonight&hide_border=true"/>
+</a>
 🎓 Pursuing Master's in Computer Science at California State University, Chico
 
 🔭 I’m interested in Software Development and Machine Learning
