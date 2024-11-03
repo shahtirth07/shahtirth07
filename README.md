@@ -4,14 +4,14 @@
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <a href="https://github.com/shahtirth07">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtirth07&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Jay's Top Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtirth07&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Tirth's Top Languages" />
 
 <a href="https://github.com/shahtirth07">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=shahtirth07&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Tirth's Stats" />
 </a>
 
 <a href="https://github.com/shahtirth07">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's streak" src="http://github-readme-streak-stats.herokuapp.com?user=shahtirth07&theme=tokyonight&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's streak" src="http://github-readme-streak-stats.herokuapp.com?user=shahtirth07&theme=aura&hide_border=true&transcript=hi"/>
 </a>
 
 
