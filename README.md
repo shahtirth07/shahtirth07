@@ -11,7 +11,7 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://github.com/shahtirth07">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tirth's streak" src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahtirth07"/></a>"
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahtirth07"/></a>
 </a>
 
 
