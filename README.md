@@ -11,7 +11,7 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://github.com/shahtirth07">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahtirth07"/></a>
+    <a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=shahtirth07](https://streak-stats.demolab.com/?user=shahtirth07)"/></a>
 </a>
 
 
