@@ -4,6 +4,16 @@
 
 # Hey, I'm Tirth
 
+<img height="165" src="./profile/stats.svg" alt="Tirth's GitHub Stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Tirth's Top Languages" />
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=shahtirth07&hide_border=true&background=151515&ring=ffffff&fire=ffffff&currStreakNum=fff7ff&sideNums=fff7ff&currStreakLabel=ffffff&sideLabels=fff7ff&dates=a0a0a0&stroke=333333" alt="GitHub Streak" />
+</a>
+
+<br />
+<br />
+
 Backend engineer and AI systems builder. I work on scalable services, RAG pipelines, and multi-agent systems.
 
 <a href="https://tirthshah.com"><img src="https://img.shields.io/badge/Website-tirthshah.com-151515?style=flat-square" alt="Website" /></a>
@@ -144,26 +154,3 @@ TDD-driven data migration framework for DataStage, Informatica, and Alteryx. Syn
 
 **M.S. Computer Science** · California State University, Chico · 2024 to 2026 · GPA 3.96<br />
 **B.E. Electronics and Telecommunication** · Savitribai Phule Pune University · 2018 to 2022 · GPA 3.74
-
-<br />
-
-### GitHub Activity
-
-<!-- If the two cards below do not load, replace github-readme-stats.vercel.app with your own Vercel deployment -->
-
-<div align="center">
-
-<a href="https://github.com/shahtirth07">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahtirth07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=21&text_color=fff7ff&icon_color=ffffff&title_color=ffffff&bg_color=151515" alt="Tirth's GitHub Stats" />
-</a>
-<a href="https://github.com/shahtirth07">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtirth07&layout=compact&langs_count=8&exclude_repo=comp426&hide_border=true&text_color=fff7ff&title_color=ffffff&bg_color=151515" alt="Tirth's Top Languages" />
-</a>
-
-<br />
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=shahtirth07&hide_border=true&background=151515&ring=ffffff&fire=ffffff&currStreakNum=fff7ff&sideNums=fff7ff&currStreakLabel=ffffff&sideLabels=fff7ff&dates=a0a0a0&stroke=333333" alt="GitHub Streak" />
-</a>
-
-</div>
